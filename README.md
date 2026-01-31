@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋, I'm **Just_Alex**
 
-<!--
-**Just-Alex22/Just-Alex22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+![Thumbnail](https://github.com/Just-Alex22/Just-Alex22/blob/main/thumbnail.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⓘ About Me
+I'm a 18 year old developer with experience in **Python**, **Bash**, and a little bit of **HTML**.
+I've been interested in computers since I was a 8 year old, and since then I've always been interested in learning something new.
+
+I tried **Linux** for the first time in 2023 as an experiment, and since then I loved it! However, I didn't install it on my main computer until 2024.
+The only reason I use **Linux** is because of the customization and the extra fps. I don't really care that much about privacy, but I don't like having **Microsoft** spying on me through my webcam.
+
+## 🖬 My Projects
+- **[ConkyMan:](https://github.com/Just-Alex22/ConkyMan)** A customization tool for Yelena Conky
+- **[Tanuki!:](https://github.com/Just-Alex22/Tanuki)** A **ClamAV** frontend for CuerdOS
+- **More Coming Soon!**
+
+## 🖳 My Setup
+### Thinkpad T430s
+- Intel Core i5-3320M
+- HD Graphics 4000
+- 8.0 GiB RAM
+- Toshiba 256gb SSD
+- Windows 10 LTSC 2021
+
+### HP Laptop 15-da2xxx
+- Intel Core i3-10110U
+- UHD Graphics
+- 12.0 GiB RAM
+- Samsung 512gb NVME
+- EndeavourOS + CuerdOS 2.0 Skycatcher
+
+## ♫ Favorite Song
+**[Men At Work - Down Under](https://open.spotify.com/intl-es/track/3ZZq9396zv8pcn5GYVhxUi)**
+
+## ✆ Social Media
+- **[TikTok:](https://www.tiktok.com/@just__alexx0)** 230K Likes
+- **[Reddit:](https://www.reddit.com/user/Salty-Interaction-79/)** 42 Karma
+- **[Bluesky:](https://bsky.app/profile/just--alexx.bsky.social)** 6 Followers
+- **[Discord:](https://discord.com/users/797549173528461363)**
+- **[Telegram:](https://t.me/Just_Alexz)**
+
+
+---
+
+*inspired of [Endarmanch's README.md](https://github.com/Endermanch/Endermanch/blob/main/README.md)*
