@@ -6,14 +6,14 @@
 
 ## ⓘ About Me
 I'm a 18 year old developer with experience in **Python**, **Bash**, and a little bit of **HTML**.
-I've been interested in computers since I was a 8 year old, and since then I've always been interested in learning something new.
+I've been interested in computers since I was an 8 year old, and since then I've always been interested in learning something new.
 
 I tried **Linux** for the first time in 2023 as an experiment, and since then I loved it! However, I didn't install it on my main computer until 2024.
-The only reason I use **Linux** is because of the customization and the extra fps. I don't really care that much about privacy, but I don't like having **Microsoft** spying on me through my webcam.
+The only reason I use **Linux** is because of the customization and the extra fps. I don't really care that much about privacy, but I don't like having Microsoft spying on me through my webcam.
 
 ## 🖬 My Projects
-- **[ConkyMan:](https://github.com/Just-Alex22/ConkyMan)** A customization tool for Yelena Conky
-- **[Tanuki!:](https://github.com/Just-Alex22/Tanuki)** A **ClamAV** frontend for CuerdOS
+- **[ConkyMan:](https://github.com/Just-Alex22/ConkyMan)** A customization tool for **Yelena Conky**
+- **[Tanuki!:](https://github.com/Just-Alex22/Tanuki)** A **ClamAV** frontend for **CuerdOS**
 - **More Coming Soon!**
 
 ## 🖳 My Setup
