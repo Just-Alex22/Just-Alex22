@@ -5,11 +5,11 @@
 ![Thumbnail](https://github.com/Just-Alex22/Just-Alex22/blob/main/thumbnail.jpg)
 
 ## ⓘ About Me
-I'm a 18 year old developer with experience in **Python**, **Bash**, and a little bit of **HTML**.
+I'm an 18 year old developer with experience in **Python**, **Bash**, and a little bit of **HTML**.
 I've been interested in computers since I was an 8 year old, and since then I've always been interested in learning something new.
 
 I tried **Linux** for the first time in 2023 as an experiment, and since then I loved it! However, I didn't install it on my main computer until 2024.
-The only reason I use **Linux** is because of the customization and the extra fps. I don't really care that much about privacy, but I don't like having Microsoft spying on me through my webcam.
+The only reason I use **Linux** is because of the customization and the extra fps. I don't really care that much about privacy, but I don't like having Microslop spying on me through my webcam.
 
 ## 🖬 My Projects
 - **[ConkyMan:](https://github.com/Just-Alex22/ConkyMan)** A customization tool for **Yelena Conky**
@@ -22,13 +22,13 @@ The only reason I use **Linux** is because of the customization and the extra fp
 - HD Graphics 4000
 - 8.0 GiB RAM
 - Toshiba 256gb SSD
-- Windows 10 LTSC 2021
+- Windows 10 LTSC 2021 + Debian 13
 
 ### HP Laptop 15-da2xxx
 - Intel Core i3-10110U
 - UHD Graphics
 - 12.0 GiB RAM
-- Samsung 512gb NVME
+- Samsung 512 GB NVMe
 - EndeavourOS + CuerdOS 2.0 Skycatcher
 
 ## ♫ Favorite Song
