@@ -14,6 +14,7 @@ The only reason I use **Linux** is because of the customization and the extra fp
 ## 🖬 My Projects
 - **[ConkyMan:](https://github.com/Just-Alex22/ConkyMan)** A customization tool for **Yelena Conky**
 - **[Tanuki!:](https://github.com/Just-Alex22/Tanuki)** A **ClamAV** frontend for **CuerdOS**
+- **[CuerdWatch:](https://github.com/Just-Alex22/CuerdWatch)** A lightweight task-manager for **CuerdOS**
 - **More Coming Soon!**
 
 ## 🖳 My Setup
