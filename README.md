@@ -37,11 +37,10 @@ The only reason I use **Linux** is because of the customization and the extra fp
 **[Men At Work - Down Under](https://open.spotify.com/intl-es/track/3ZZq9396zv8pcn5GYVhxUi)**
 
 ## ✆ Social Media
-- **[TikTok:](https://www.tiktok.com/@just__alexx0)** 230K Likes
-- **[Reddit:](https://www.reddit.com/user/Salty-Interaction-79/)** 42 Karma
+- **[TikTok:](https://www.tiktok.com/@just__alexx0)** 240K Likes
+- **[Reddit:](https://www.reddit.com/user/Salty-Interaction-79/)** 407 Karma
 - **[Bluesky:](https://bsky.app/profile/just--alexx.bsky.social)** 6 Followers
-- **[Discord:](https://discord.com/users/797549173528461363)**
-- **[Telegram:](https://t.me/Just_Alexz)**
+- **[Telegram:](https://t.me/Just_Alexz)** @Just_Alexz
 
 
 ---
