@@ -15,6 +15,7 @@ The only reason I use **Linux** is because of the customization and the extra fp
 - **[ConkyMan:](https://github.com/Just-Alex22/ConkyMan)** A customization tool for **Yelena Conky**
 - **[Tanuki!:](https://github.com/Just-Alex22/Tanuki)** A **ClamAV** frontend for **CuerdOS**
 - **[CuerdWatch:](https://github.com/Just-Alex22/CuerdWatch)** A lightweight task-manager for **CuerdOS**
+- **[Yelena Connect:](https://github.com/Just-Alex22/CuerdWatch)** Control your Linux PC from your Android phone over Wi-Fi
 - **More Coming Soon!**
 
 ## 🖳 My Setup
@@ -23,7 +24,7 @@ The only reason I use **Linux** is because of the customization and the extra fp
 - HD Graphics 4000
 - 8.0 GiB RAM
 - Toshiba 256gb SSD
-- Windows 10 LTSC 2021 + Debian 13
+- Bindoj 10 LTSC 2021 + Debian 13
 
 ### HP Laptop 15-da2xxx
 - Intel Core i3-10110U
