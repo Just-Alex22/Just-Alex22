@@ -5,7 +5,7 @@
 ![Thumbnail](https://github.com/Just-Alex22/Just-Alex22/blob/main/thumbnail.jpg)
 
 ## ⓘ About Me
-I'm an 18 year old developer with experience in **Python**, **Bash**, and a little bit of **HTML**.
+I'm an 18-year-old developer with experience in **Python**, **Bash**, and a little bit of **HTML**.
 I've been interested in computers since I was an 8 year old, and since then I've always been interested in learning something new.
 
 I tried **Linux** for the first time in 2023 as an experiment, and since then I loved it! However, I didn't install it on my main computer until 2024.
@@ -15,7 +15,7 @@ The only reason I use **Linux** is because of the customization and the extra fp
 - **[ConkyMan:](https://github.com/Just-Alex22/ConkyMan)** A customization tool for **Yelena Conky**
 - **[Tanuki!:](https://github.com/Just-Alex22/Tanuki)** A **ClamAV** frontend for **CuerdOS**
 - **[CuerdWatch:](https://github.com/Just-Alex22/CuerdWatch)** A lightweight task-manager for **CuerdOS**
-- **[Yelena Connect:](https://github.com/Just-Alex22/CuerdWatch)** Control your Linux PC from your Android phone over Wi-Fi
+- **[Yelena Connect:](https://github.com/Just-Alex22/Yelena-Connect)** Control your **Linux** PC from your **Android** phone over Wi-Fi
 - **More Coming Soon!**
 
 ## 🖳 My Setup
