@@ -13,7 +13,7 @@ The only reason I use **Linux** is because of the customization and the extra fp
 
 ## 🖬 My Projects
 - **[ConkyMan:](https://github.com/Just-Alex22/ConkyMan)** A customization tool for **Yelena Conky**
-- **[Tanuki!:](https://github.com/Just-Alex22/Tanuki)** A **ClamAV** frontend for **CuerdOS**
+- **[Tanuki! (Discontinued):](https://github.com/Just-Alex22/Tanuki)** A **ClamAV** frontend for **CuerdOS**
 - **[CuerdWatch:](https://github.com/Just-Alex22/CuerdWatch)** A lightweight task-manager for **CuerdOS**
 - **[Yelena Connect:](https://github.com/Just-Alex22/Yelena-Connect)** Control your **Linux** PC from your **Android** phone over Wi-Fi
 - **More Coming Soon!**
@@ -23,7 +23,7 @@ The only reason I use **Linux** is because of the customization and the extra fp
 - Intel Core i5-3320M
 - HD Graphics 4000
 - 8.0 GiB RAM
-- Toshiba 256gb SSD
+- Toshiba 256 GB SSD
 - Bindoj 10 LTSC 2021 + Debian 13
 
 ### HP Laptop 15-da2xxx
