@@ -6,31 +6,42 @@
 
 ## ⓘ About Me
 I'm an 18-year-old developer with experience in **Python**, **Bash**, and a little bit of **HTML**.
-I've been interested in computers since I was an 8 year old, and since then I've always been interested in learning something new.
+I've been interested in computers since I was an 8-year-old, and since then I've always been interested in learning something new.
 
-I tried **Linux** for the first time in 2023 as an experiment, and since then I loved it! However, I didn't install it on my main computer until 2024.
+I tried **Linux** for the first time in 2023 as an experiment, and since then, I have loved it! However, I didn't install it on my main computer until 2024.
 The only reason I use **Linux** is because of the customization and the extra fps. I don't really care that much about privacy, but I don't like having Microslop spying on me through my webcam.
 
 ## 🖬 My Projects
 - **[ConkyMan:](https://github.com/Just-Alex22/ConkyMan)** A customization tool for **Yelena Conky**
 - **[CuerdWatch:](https://github.com/Just-Alex22/CuerdWatch)** A lightweight task-manager for **CuerdOS**
 - **[Yelena Connect:](https://github.com/Just-Alex22/Yelena-Connect)** Control your **Linux** PC from your **Android** phone over Wi-Fi
+- **[Yelena Connect:](https://github.com/Just-Alex22/Yelena-Connect)** **Void Linux** ISO Customizer
 - **More Coming Soon!**
 
 ## 🖳 My Setup
+### Desktop PC
+- Intel Core i3-7100
+- Geforce GTX 1050Ti
+- 512 GB NVMe
+- 16 GB DDR4 Kingston Fury
+- Acteck Sport Case
+- Windows 10 LTSC 2021
+
 ### Thinkpad T430s
 - Intel Core i5-3320M
 - HD Graphics 4000
 - 8.0 GiB RAM
 - Toshiba 256 GB SSD
-- Bindoj 10 LTSC 2021 + Hackintosh Big Sur
+- Windows 10 LTSC 2021 + Hackintosh Big Sur
 
 ### HP Laptop 15-da2xxx
 - Intel Core i3-10110U
 - UHD Graphics
 - 12.0 GiB RAM
 - Samsung 512 GB NVMe
-- EndeavourOS + CuerdOS 2.0 Skycatcher
+- EndeavourOS + CuerdOS 2.1 Skycatcher
+
+
 
 ## ♫ Favorite Song
 **[Men At Work - Down Under](https://open.spotify.com/intl-es/track/3ZZq9396zv8pcn5GYVhxUi)**
