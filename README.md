@@ -15,7 +15,7 @@ The only reason I use **Linux** is because of the customization and the extra fp
 - **[ConkyMan:](https://github.com/Just-Alex22/ConkyMan)** A customization tool for **Yelena Conky**
 - **[CuerdWatch:](https://github.com/Just-Alex22/CuerdWatch)** A lightweight task-manager for **CuerdOS**
 - **[Yelena Connect:](https://github.com/Just-Alex22/Yelena-Connect)** Control your **Linux** PC from your **Android** phone over Wi-Fi
-- **[Yelena Connect:](https://github.com/Just-Alex22/Yelena-Connect)** **Void Linux** ISO Customizer
+- **[VoidBox:](https://github.com/Just-Alex22/VoidBox-ISO-Customizer)** **Void Linux** ISO Customizer
 - **More Coming Soon!**
 
 ## 🖳 My Setup
